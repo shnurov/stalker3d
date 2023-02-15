@@ -14,7 +14,8 @@ body {
   height: 100%;
 }
 
-.sluder__layer {
+.slider__layer {
   position: absolute;
   inset: 0;
+  background-size: cover;
 }
