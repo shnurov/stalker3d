@@ -36,4 +36,5 @@ body {
 
 .slider__wrapper {
   will-change: transform;
+  transform-style: preserve-3d;
 }
